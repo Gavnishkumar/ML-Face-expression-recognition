@@ -1,0 +1,16 @@
+# Ignore the dataset folder
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+# Ignore IDE settings (if you use VS Code or Pycharm)
+.vscode/
+.idea/
+
+# Ignore large video recordings if you made any
+*.mp4
