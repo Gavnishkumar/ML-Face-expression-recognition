@@ -33,7 +33,7 @@ This project bridges the gap between Computer Vision and Deep Learning. It captu
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/face-emotion-recognition.git](https://github.com/YOUR_USERNAME/face-emotion-recognition.git)
+    git clone [https://github.com/Gavnishkumar/ML-Face-expression-recognition.git](https://github.com/Gavnishkumar/ML-Face-expression-recognition.git)
     cd face-emotion-recognition
     ```
 
@@ -60,7 +60,7 @@ This project bridges the gap between Computer Vision and Deep Learning. It captu
 ## 📊 Model Performance
 The model was trained on the FER-2013 dataset for 50 epochs.
 
-![Training Plot](screenshots/training_plot.png)
+![Training Plot](Images/training_plot.png)
 
 * **Training Accuracy:** ~57%
 * **Validation Accuracy:** ~56%
